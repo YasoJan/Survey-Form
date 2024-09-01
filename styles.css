@@ -1,0 +1,125 @@
+/* 
+Introduction:
+Yasin Zahir
+Clone of https://survey-form.freecodecamp.rocks/
+No cheating/copying except for copying the background image and using chrome extensions to find the font info and color scheme
+CSS and HTML research during the project was from w3schools & developer.mozilla
+*/
+
+h1 
+/* Header/Title */
+{
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 0px;
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 38px;
+}
+
+#box 
+/* Div element with box ID: The opaque purple box in the center of the screen */
+{
+  border: 3px solid #1f172b;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  background-color: #1f172b;
+  opacity: 0.8;
+  
+}
+
+p 
+/* P element with description ID: The text under the title*/
+{
+  text-align: center;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 25px;
+  font-weight: 200;
+  margin-top: 5px;
+}
+
+form 
+/* form element with survey-form ID: The boxed inner content within the div element box ID */
+{
+  margin: 5%;
+  margin-left: 5%;
+}
+
+body 
+/* Overall style applied throughout the site excluding specific changes specified otherwise */
+{
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  background-color: #41428A;
+  color: white;
+  line-height: 25px;
+  background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
+fieldset 
+/* 6 hidden containers sectioning off the content used for spacing */
+{
+  border-style: none;
+  margin-bottom: 5px;
+  padding: 10px;
+  
+}
+
+#name-label, #email-label, #number-label, #role-label, #recommend-label,#comments-label 
+/* Label titles preceeding input fields */
+{
+  display: block;
+  text-align: left;
+  
+}
+.text-input, #dropdown
+/* input text type and select element with dropdown ID */
+{
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  border-style: none;
+  font-size: 17px;
+  color: black;
+}
+#dropdown
+/* select element chosen to increase width again */
+{
+  width: 101%;
+}
+
+textarea
+/* comment input field */
+{
+  width: 100%;
+  height: 100px;
+  margin-top: 2%;
+}
+
+
+button
+/* Submission button */
+{
+  text-align: center;
+  background-color: #00A00D;
+  cursor: pointer; 
+  color: white;
+  display: block;
+  width: 101%;
+  height: 30px;
+  border-style: none;
+
+  
+}
+
+input,select,option
+/* input, select, and option elements (input fields) */
+{
+margin-top: 10px; 
+}
