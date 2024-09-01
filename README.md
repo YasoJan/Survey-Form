@@ -1,6 +1,8 @@
 # freeCodeCamp Survey Form Clone
 
-freeCodeCamp portfolio project: [freeCodeCamp Survey Form](https://survey-form.freecodecamp.rocks/). Below are the screenshots of the original site and the cloned version.
+freeCodeCamp portfolio project: [freeCodeCamp Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form). Below are the screenshots of the original site and the cloned version.
+
+[Link to original Site](https://survey-form.freecodecamp.rocks/)
 
 ## Original Site
 
