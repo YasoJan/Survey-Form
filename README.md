@@ -7,7 +7,7 @@ freeCodeCamp portfolio project: https://www.freecodecamp.org/learn/2022/responsi
   
 Link to the original site: https://survey-form.freecodecamp.rocks
 
-Below are the screenshots of the original site and the cloned version.
+Below are the screenshots of the original site and the cloned version I created.
 </p>
 
 
