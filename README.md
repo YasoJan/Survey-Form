@@ -12,7 +12,7 @@ freeCodeCamp portfolio project: [freeCodeCamp Survey Form](https://survey-form.f
 
 # Introduction
 
-## Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks. Do not copy this demo project.
+Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks. Do not copy this demo project.
 
 ## User Stories:
 
