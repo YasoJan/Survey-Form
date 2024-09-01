@@ -1,14 +1,20 @@
+<p align="center">
 # freeCodeCamp Survey Form Clone
+</p>
 
 freeCodeCamp portfolio project: [freeCodeCamp Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form). Below are the screenshots of the original site and the cloned version.
 
 [Link to original Site](https://survey-form.freecodecamp.rocks/)
 
+<p align="center">
 ## Original Site
+<p align="center">
 
 ![Original Site Screenshot](original_UI.png)
 
+<p align="center">
 ## Cloned Site
+</p>
 
 ![Cloned Site Screenshot](cloned_UI.png)
 
