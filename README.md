@@ -10,11 +10,11 @@ freeCodeCamp portfolio project: [freeCodeCamp Survey Form](https://survey-form.f
 
 ![Cloned Site Screenshot](cloned_UI.png)
 
-## Introduction
+# Introduction
 
-# Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks. Do not copy this demo project.
+## Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks. Do not copy this demo project.
 
-# User Stories:
+## User Stories:
 
 * You should have a page title in an h1 element with an id of title
 
@@ -50,7 +50,7 @@ freeCodeCamp portfolio project: [freeCodeCamp Survey Form](https://survey-form.f
 
 * Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
-Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
+## Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
 
 - No external libraries were used.
 - The background image was directly sourced from the original site.
