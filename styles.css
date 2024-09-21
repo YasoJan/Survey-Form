@@ -10,11 +10,14 @@ h1
 /* Header/Title */
 {
   text-align: center;
-  margin-top: 4%;
+  margin-top: 10vh;
   margin-bottom: 0px;
-  font-size: 35px;
-  font-weight: 400;
+  font-size: 70px;
+  font-weight: 600;
   line-height: 38px;
+  font-style: bold;
+  color: #1f172b
+
 }
 
 #box 
@@ -23,7 +26,7 @@ h1
   border: 3px solid #1f172b;
   margin-left: 25%;
   margin-right: 25%;
-  margin-top: 2%;
+  margin-top: 5%;
   margin-bottom: 5%;
   background-color: #1f172b;
   opacity: 0.8;
@@ -34,11 +37,14 @@ p
 /* P element with description ID: The text under the title*/
 {
   text-align: center;
-  font-size: 18px;
+  font-size: 25px;
   font-style: italic;
   line-height: 25px;
   font-weight: 200;
-  margin-top: 5px;
+  margin-top: 30px;
+  
+  font-weight: 600;
+
 }
 
 form 
@@ -56,8 +62,8 @@ body
   background-color: #41428A;
   color: white;
   line-height: 25px;
-  background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
-  background-attachment: fixed;
+  background-image: url(coding_image.jpg);
+  background-attachment: cover;
   background-size: cover;
   background-blend-mode: screen;
   background-repeat: no-repeat;
@@ -102,6 +108,8 @@ textarea
   width: 100%;
   height: 100px;
   margin-top: 2%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
 }
 
 
